@@ -1,4 +1,4 @@
-# digital_menu_test
+# restaurant-ordering
 
 restaurant ordering management Flutter-UI App
 
